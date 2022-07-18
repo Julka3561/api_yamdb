@@ -105,3 +105,20 @@ python3 yatube_yamdb/manage.py runserver
 15. Эндпойнт http://127.0.0.1:8000/api/v1/users/me/
     - GET - получение данных своей учетной записи
     - PATCH - изменение данных своей учетной записи
+
+## Авторы
+**Руслан Смирнов**
+
+[Email](bludstainz@yandex.ru)  
+[Telegram](https://t.me/tiredruslan)
+
+**Семён Егоров**
+
+[LinkedIn](https://www.linkedin.com/in/simonegorov/)  
+[Email](rhinorofl@gmail.com)  
+[Telegram](https://t.me/SamePersoon)
+
+**Юлия Васильева**
+
+[Email](julka3561@yandex.ru)  
+[Telegram](https://t.me/julka3561)
